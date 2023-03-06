@@ -1,7 +1,7 @@
 # ClimaTempo
 Criando um clima tempo básico usando HTML, CSS e Javascript.
 
-Todo o projeto foi desenvolvido por Gustavo Barreto, e você pode encontrá-lo no Instagram pela conta @gustavobarreto.dev
+O projeto teve como referência a conta @gustavobarreto.dev no instagram
 
 Fiz alterações para deixar o climatempo diferente do original mas o mantendo funcional. 
 
